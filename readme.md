@@ -95,3 +95,4 @@ task-tracker/
 ## License
 
 This project is open source and available for personal and commercial use.
+project url is `https://roadmap.sh/projects/task-tracker`
